@@ -9,7 +9,7 @@ redirect_from:
 details about me 
 
 About My Work
-
+=============
 ---
 
 I spend most of my time doing research analysis and visualisations using medical data anywhere from investigating common genetic variants to CT image biomarkers. I'm particularly interested in FAIR data principles, ethical data practices and how we can produce reproducible models and analysis pipelines across scientific fields.
