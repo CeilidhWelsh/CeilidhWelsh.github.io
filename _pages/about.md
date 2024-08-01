@@ -6,7 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-details about me 
+
+I'm a PhD researcher based in the United Kingdom funded by Cancer Research UK to investigate patient responses to radiotherapy across different cancer types. I'm interested in the intersections of open science, reproducibility and ethics with machine learning and whatever we mean when we say artificial intelligence. 
+
+I'm interested in how we can form a sense of stewardship and guardianship across our digital lives and how communities can drive change. Part of this interest, involves exploring the ethical implications and dimensions of how we seek to use technology to provide benefits within our communities and societies. I care deeply for the interconnected nature of our world, our politics, our actions, and how they shape our research and our daily lives. 
+
+If I'm not working on my research, you can find me ... 
+
+
+
 
 About My Work
 =============
