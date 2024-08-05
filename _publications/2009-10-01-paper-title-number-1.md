@@ -2,7 +2,7 @@
 title: "Position statement on clinical evaluation of imaging AI."
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Join us in exploring the different ways we can clinically evaluate AI systems for healthcare imaging'
 date: 2023-08-05
 venue: 'Lancet Digit Health'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/37391263/'
