@@ -35,7 +35,7 @@ Books:
 
 🌻 Recommendations always welcome 🌻
 
-![alt text](images/websiteimone.jpeg)
+![alt text](CeilidhWelsh.github.io/images/websiteimone.jpeg)
 
 
 
