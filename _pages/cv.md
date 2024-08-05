@@ -31,6 +31,8 @@ Supervised by [Dr Gillian C. Barnett](https://www.cuh.nhs.uk/staff-directory/dr_
 <br>
 <br>
 <br>
+<br>
+<br>
 
 # Community and Project Experience 
 ---
@@ -39,7 +41,6 @@ Supervised by [Dr Gillian C. Barnett](https://www.cuh.nhs.uk/staff-directory/dr_
   *	Developed the Turing Way’s research vision into executable tasks to deliver content for publication
   *	Represented TTW’s strategic contributions to the UK AI Landscape at the ATI Quinquennial Review
   *	Coordinated and organised onboarding calls and workshops to introduce new project members 
-
 
 ## Data Hazards, Ethics & Reproducibility Symposium, Alan Turing Institute (Dec 2022 – Mar 202)
   * Designed, co-organised and co-led a one-day, hybrid symposium to foster interdisciplinary discussions
@@ -51,10 +52,11 @@ Supervised by [Dr Gillian C. Barnett](https://www.cuh.nhs.uk/staff-directory/dr_
   * Creatively engaged in two-way, open discussions with the public on the impact of AI in our daily lives  
   * Engaged with the AI Safety Summit’s People’s Panel discussing AI’s daily uses, risks, and implications, which they reported back to the UK Government as part of the AI Safety Summit
   * Collected data and public feedback regarding their lived experiences and understanding of AI to produce resources and to inform thinking on AI communications and accessibility 
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # Work Experience 
 ---
@@ -68,9 +70,13 @@ _Experience on the frontline of healthcare services and behind the scenes to ens
 ### Private Sector – Grace and Green, Period Dignity Team (2021-2023)
 _Experience in a menstrual health start-up delivering resources to UK educational institutes and organisations_
   * Designed and delivered workshops on menstrual equity across UK Universities
-  * Developed and launched free-to-access educational materials for UK organisations and businesses 
+  * Developed and launched free-to-access educational materials for UK organisations and businesses
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
 # Volunteering Interests and Experiences  
 ---
 
@@ -90,7 +96,21 @@ _Promoted policy changes, advocated for menstrual equity, and secured £550 sust
 ### Patient Representative for the Juvenile Diabetes Research Foundation (Jan 2016 – Ongoing)
 _Providing the patient perspective on documents and software for research institutions, companies, and charities_
   * Reviewing manuscripts, funding documents, evaluating AI tools and new software developments for diabetes patients, and feeding back to researchers the patient perspective 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+## Conferences and Talks 
+---
+*	Association for Radiation Research (Glasgow 2022), Medical AI and Machine Learning Panel Host
+*	Evaluating Auto-segmentation in Medical Imaging Analysis (Cambridge 2022), Poster and Panel Discussion
+*	University College London (London 2023), Invited Talk
+*	Open Fest Hybrid Symposium (Sheffield 2024), Invited Talk
+*	Cancer Research UK Symposium (Cambridge 2021 and 2024), Presentations
+*	Medical Imaging Understanding and Analysis Conference (Cambridge 2021), Best Poster Award
+*	European Society of Radiotherapy Oncology (Glasgow 2024), Poster
+*	International Radiotherapy Research Conference (Hawai’i 2022), Poster 
 
 
 
