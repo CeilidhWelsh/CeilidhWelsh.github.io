@@ -23,6 +23,7 @@ My Work
 My PhD explores predictive biomarkers in medical data, from common genetic variants to CT imaging. With my interest in the FAIR data principles, reproducibility and ethical data practices, I have built a robust and reproducible modular pipeline for investigating medical biomarkers that ensures transparency and facilitates collaboration and validation of findings. With my research group, I have contributed to and been a first tester of our own developed and published Python package [scikit-rt](https://scikit-rt.github.io/scikit-rt/) for radiotherapy and medical image analysis. 
 
 As part of my work with [The Turing Way](https://www.turing.ac.uk/research/research-projects/turing-way) and on my enrichment scheme at the [Alan Turing Institute](https://www.turing.ac.uk/), I contributed to open-access resources for data reproducibility and ethics [co-authoring a chapter](https://book.the-turing-way.org/ethical-research/data-hazards) on the Data Hazards framework and organising a [one-day hybrid symposium](https://github.com/Susana465/der_symposium_20230310) on _'Data Hazards, Ethics and Reproducibility Symposium.'_ By extension, I am also an active contributor to the [Data Hazards Project](https://datahazards.com/) for an open-source vocabulary for data ethics, and a member of the [Data Ethics Club](https://dataethicsclub.com/). 
+
 <br>
 <br>
 Currently Enjoying
@@ -35,7 +36,7 @@ Books:
 
 🌻 Recommendations always welcome 🌻
 
-![alt text](CeilidhWelsh.github.io/images/websiteimone.jpeg)
+![alt text](/images/websiteimone.jpeg)
 
 
 
