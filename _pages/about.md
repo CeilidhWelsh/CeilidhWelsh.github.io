@@ -36,8 +36,11 @@ Books:
 
 🌻 Always looking for new inspiration 🌻
 
-<img src="/images/websiteimone.jpeg" alt="drawing" width="300"/> 
-<img src="/images/websiteimtwo.jpeg" alt="drawing" width="300"/>
+<div style="display: flex; justify-content: center;">
+  <img src="/images/websiteimone.jpeg" alt="Image 1" style="width: 45%; margin-right: 10px;">
+  <img src="/images/websiteimtwo.jpeg" alt="Image 2" style="width: 45%;">
+</div>
+
 
 
 
