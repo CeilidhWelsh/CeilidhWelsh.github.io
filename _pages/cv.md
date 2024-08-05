@@ -30,9 +30,7 @@ Supervised by [Dr Gillian C. Barnett](https://www.cuh.nhs.uk/staff-directory/dr_
   * Student Ambassador; women in STEM advocate; resource development for educational access project
 <br>
 <br>
-<br>
-<br>
-<br>
+
 
 # Community and Project Experience 
 ---
@@ -74,9 +72,7 @@ _Experience in a menstrual health start-up delivering resources to UK educationa
 
 <br>
 <br>
-<br>
-<br>
-<br>
+
 
 # Volunteering Interests and Experiences  
 ---
@@ -99,9 +95,7 @@ _Providing the patient perspective on documents and software for research instit
   * Reviewing manuscripts, funding documents, evaluating AI tools and new software developments for diabetes patients, and feeding back to researchers the patient perspective 
 <br>
 <br>
-<br>
-<br>
-<br>
+
 ## Conferences and Talks 
 ---
 *	Association for Radiation Research (Glasgow 2022), Medical AI and Machine Learning Panel Host
