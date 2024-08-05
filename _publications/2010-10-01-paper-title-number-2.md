@@ -1,5 +1,5 @@
 ---
-title: "Data Hazards Chapter, The Turing Way Handbook"
+title: 'Data Hazards Chapter, The Turing Way Handbook'
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Let's explore a community-developed shared vocabulary of data science risks.'
