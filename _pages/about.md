@@ -18,7 +18,6 @@ If I'm not working on my research, you can find me in my favourite cafe or rolle
 
 My Work 
 =============
-**---**
 
 My PhD explores predictive biomarkers in medical data, from common genetic variants to CT imaging. With my interest in the FAIR data principles, reproducibility and ethical data practices, I have built a robust and reproducible modular pipeline for investigating medical biomarkers that ensures transparency and facilitates collaboration and validation of findings. With my research group, I have contributed to and been a first tester of our own developed and published Python package [scikit-rt](https://scikit-rt.github.io/scikit-rt/) for radiotherapy and medical image analysis. 
 
@@ -26,7 +25,6 @@ As part of my work with [The Turing Way](https://www.turing.ac.uk/research/resea
 
 Currently Consuming
 ===================
-**---**
 
 Books:
 1. Wolfish: Wolf, Self, and the Stories We Tell About Fear - Erica Berry 
