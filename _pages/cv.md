@@ -17,7 +17,7 @@ Jump to:
 
 # Research Experience <a name="researchexperience"></a>
 ---
-## <span style="color: #1A3B33;">PhD in Computational Oncology (Oct 2020 – Dec 2024)</span>
+## <span style="color: #224D42;">PhD in Computational Oncology (Oct 2020 – Dec 2024)</span>
 ### Towards a Unified Model for Predicting Radiotherapy Effects
 ### Funded by Cancer Research UK
 
