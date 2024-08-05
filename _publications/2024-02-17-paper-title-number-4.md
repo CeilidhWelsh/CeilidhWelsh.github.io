@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'Join us in exploring community-driven approaches to developing ethical AI for healthcare applications.'
 date: 2024-01-01
-venue: 'Accepted by the Future Health Journal July 2024'
+venue: 'Accepted by the Future Health Journal July'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 ---
 
