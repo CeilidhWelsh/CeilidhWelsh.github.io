@@ -1,20 +1,25 @@
----
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
----
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Research Experience 
 ======
 
-Heading 2
+PhD in Computational Oncology, University of Cambridge (Oct 2020 – Dec 2024) 
+
+Thesis Title: Towards a Unified Model for Predicting Radiotherapy Effects 
+Suprvised by [Dr Gillian C. Barnett](https://www.cuh.nhs.uk/staff-directory/dr_gill_barnett/) and [Dr Raj Jena](https://www.cuh.nhs.uk/staff-directory/dr-raj-jena/). 
+
+* Utilised statistical and machine learning methods to predict radiotherapy treatment response, conducting collaborative interdisciplinary research with clinicians, AI researchers, ethicists, patients, and publics
+
+*	Independently designed and implemented a reproducible pipeline using FAIR data principles, ensuring accountability, explainability, and transparency of algorithm development and research objectives
+
+*	Mapped out and utilised ethical frameworks for evaluating and addressing medical data risks and ethical concerns associated with the project’s goals, in the context of AI healthcare implementation 
+
+*	Shaped and informed the project’s execution through qualitative focus-group methods to explore patients’ lived experiences and perspectives
+
+*	High-quality research outputs, from patient-facing collaborations to research publications, informing UK Government policy development on AI medical device regulation 
+
+
+Community and Project Experience 
 ======
 
-Heading 3
+Work Experience 
 ======
+
