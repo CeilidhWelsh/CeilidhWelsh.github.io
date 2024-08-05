@@ -34,7 +34,7 @@ Books:
 2. Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence - Kate Crawford
 3. She Who Struggles: Revolutionary Women Who Shaped the World - Marral Shamshiri and Sorcha Thomson
 
-🌻 Recommendations always welcome 🌻
+🌻 Always looking for new inspiration 🌻
 
 ![alt text](/images/websiteimone.jpeg) ![alt text 2](/images/websiteimtwo.jpeg)
 
