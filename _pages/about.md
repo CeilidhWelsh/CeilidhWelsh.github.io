@@ -36,7 +36,7 @@ Books:
 
 🌻 Recommendations always welcome 🌻
 
-![alt text](/images/websiteimone.jpeg) ![alt text 2](/images/websiteimone.jpeg)
+![alt text](/images/websiteimone.jpeg) ![alt text 2](/images/websiteimtwo.jpeg)
 
 
 
