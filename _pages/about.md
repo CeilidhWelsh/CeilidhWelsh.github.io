@@ -36,7 +36,8 @@ Books:
 
 🌻 Always looking for new inspiration 🌻
 
-<img src="/images/websiteimone.jpeg" alt="drawing" width="200"/>
+<img src="/images/websiteimone.jpeg" alt="drawing" width="300"/> 
+<img src="/images/websiteimtwo.jpeg" alt="drawing" width="300"/>
 
 
 
