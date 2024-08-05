@@ -17,9 +17,10 @@ Jump to:
 
 # Research Experience <a name="researchexperience"></a>
 ---
-## <span style="color: green;">PhD in Computational Oncology, University of Cambridge (Oct 2020 – Dec 2024)</span>
+## <span style="color: green;">PhD in Computational Oncology (Oct 2020 – Dec 2024)</span>
 
 ### Towards a Unified Model for Predicting Radiotherapy Effects
+### Funded by Cancer Research UK
 
 Supervised by [Dr Gillian C. Barnett](https://www.cuh.nhs.uk/staff-directory/dr_gill_barnett/) and [Dr Raj Jena](https://www.cuh.nhs.uk/staff-directory/dr-raj-jena/). 
 
