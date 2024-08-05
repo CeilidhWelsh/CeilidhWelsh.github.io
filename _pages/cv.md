@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Research Experience 
-======
+===
 
 ## PhD in Computational Oncology, University of Cambridge (Oct 2020 – Dec 2024) 
 
@@ -30,7 +30,7 @@ Supervised by [Dr Gillian C. Barnett](https://www.cuh.nhs.uk/staff-directory/dr_
   * Student Ambassador; women in STEM advocate; resource development for educational access project
 
 Community and Project Experience 
-======
+===
 
 ## The Turing Way (TTW) Collaborations, Alan Turing Institute (May 2023 – Ongoing)
   *	Developed the Turing Way’s research vision into executable tasks to deliver content for publication
@@ -51,7 +51,7 @@ Community and Project Experience
 
 
 Work Experience 
-======
+===
 
 
 
