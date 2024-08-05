@@ -23,7 +23,7 @@ My PhD explores predictive biomarkers in medical data, from common genetic varia
 
 As part of my work with [The Turing Way](https://www.turing.ac.uk/research/research-projects/turing-way) and on my enrichment scheme at the [Alan Turing Institute](https://www.turing.ac.uk/), I contributed to open-access resources for data reproducibility and ethics [co-authoring a chapter](https://book.the-turing-way.org/ethical-research/data-hazards) on the Data Hazards framework and organising a [one-day hybrid symposium](https://github.com/Susana465/der_symposium_20230310) on _'Data Hazards, Ethics and Reproducibility Symposium.'_ By extension, I am also an active contributor to the [Data Hazards Project](https://datahazards.com/) for an open-source vocabulary for data ethics, and a member of the [Data Ethics Club](https://dataethicsclub.com/). 
 
-Currently Consuming
+Currently Enjoying
 ===================
 
 Books:
@@ -31,4 +31,8 @@ Books:
 2. Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence - Kate Crawford
 3. She Who Struggles: Revolutionary Women Who Shaped the World - Marral Shamshiri and Sorcha Thomson
 
-Recommendations always welcome!!! 
+🌻 Recommendations always welcome 🌻
+
+
+
+
