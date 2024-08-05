@@ -17,8 +17,7 @@ Jump to:
 
 # Research Experience <a name="researchexperience"></a>
 ---
-
-## PhD in Computational Oncology, University of Cambridge (Oct 2020 – Dec 2024)
+## <span style="color: green;">PhD in Computational Oncology, University of Cambridge (Oct 2020 – Dec 2024)</span>
 
 ### Towards a Unified Model for Predicting Radiotherapy Effects
 
