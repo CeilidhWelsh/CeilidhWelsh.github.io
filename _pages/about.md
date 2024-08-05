@@ -33,7 +33,7 @@ Books:
 
 🌻 Recommendations always welcome 🌻
 
-![image](files:'images/WhatsApp Image 2024-08-05 at 16.56.55 (1).jpeg')
+![image info]("./images/WhatsApp Image 2024-08-05 at 16.56.55 (1).jpeg")
 
 
 
