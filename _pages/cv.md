@@ -29,6 +29,10 @@ Supervised by [Dr Gillian C. Barnett](https://www.cuh.nhs.uk/staff-directory/dr_
   * First Class Honours (83%) with Deans Commendation Award
   * Student Ambassador; women in STEM advocate; resource development for educational access project
 
+
+
+
+
 # Community and Project Experience 
 ---
 
@@ -50,21 +54,23 @@ Supervised by [Dr Gillian C. Barnett](https://www.cuh.nhs.uk/staff-directory/dr_
   * Collected data and public feedback regarding their lived experiences and understanding of AI to produce resources and to inform thinking on AI communications and accessibility 
 
 
+
+
+
 # Work Experience 
 ---
 
-###Public Sector Roles 
-Experience on the frontline of healthcare services and behind the scenes to ensure high-quality patient care
-
+### Public Sector Roles 
+_Experience on the frontline of healthcare services and behind the scenes to ensure high-quality patient care
+_
 1. A&E receptionist (2018 - 2020); managed critical and high-pressure tasks working across medical teams 
 2. Software Tester NHS (2018); tested four bespoke software systems before implementation across the NHS 
-3. Medical Physics Departments (2018 | 2019); developed safety protocols across two NHS trusts
+3. Medical Physics Departments (2018 and 2019); developed safety protocols across two NHS trusts
 
-###Private Sector – Grace and Green, Period Dignity Team (2021-2023)
-Experience in a menstrual health start-up delivering resources to UK educational institutes and organisations 
-
-* Designed and delivered workshops on menstrual equity across UK Universities
-* * Developed and launched free-to-access educational materials for UK organisations and businesses 
+### Private Sector – Grace and Green, Period Dignity Team (2021-2023)
+_Experience in a menstrual health start-up delivering resources to UK educational institutes and organisations _
+  * Designed and delivered workshops on menstrual equity across UK Universities
+  * Developed and launched free-to-access educational materials for UK organisations and businesses 
 
 
 
