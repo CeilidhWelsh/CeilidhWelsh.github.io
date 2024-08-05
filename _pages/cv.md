@@ -10,7 +10,7 @@ redirect_from:
 # Research Experience 
 ---
 
-## PhD in Computational Oncology, University of Cambridge (Oct 2020 – Dec 2024) 
+## <u>PhD in Computational Oncology, University of Cambridge (Oct 2020 – Dec 2024)<u>
 
 ### Thesis Title: Towards a Unified Model for Predicting Radiotherapy Effects 
 
