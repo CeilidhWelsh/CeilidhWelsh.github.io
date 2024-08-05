@@ -2,7 +2,7 @@
 title: "Data Hazards Chapter, The Turing Way Handbook"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-2
-excerpt: 'Let's explore a community-developed shared vocabulary of data science risks.'
+excerpt: ''
 date: 2024-01-01
 venue: 'The Turing Way: A handbook for reproducible, ethical, and collaborative research.'
 paperurl: 'https://book.the-turing-way.org/ethical-research/data-hazards'
