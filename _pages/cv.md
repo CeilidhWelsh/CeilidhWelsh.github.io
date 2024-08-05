@@ -28,10 +28,9 @@ Supervised by [Dr Gillian C. Barnett](https://www.cuh.nhs.uk/staff-directory/dr_
 ## Integrated Masters in Physics, University of Exeter (Sept 2016 – June 2020)
   * First Class Honours (83%) with Deans Commendation Award
   * Student Ambassador; women in STEM advocate; resource development for educational access project
-<be>
-<be>
-<be>
-
+<br>
+<br>
+<br>
 
 # Community and Project Experience 
 ---
