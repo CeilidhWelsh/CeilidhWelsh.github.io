@@ -10,9 +10,9 @@ redirect_from:
 # Research Experience 
 ---
 
-## <u>PhD in Computational Oncology, University of Cambridge (Oct 2020 – Dec 2024)<u>
+## PhD in Computational Oncology, University of Cambridge (Oct 2020 – Dec 2024)
 
-### Thesis Title: Towards a Unified Model for Predicting Radiotherapy Effects 
+### Towards a Unified Model for Predicting Radiotherapy Effects
 
 Supervised by [Dr Gillian C. Barnett](https://www.cuh.nhs.uk/staff-directory/dr_gill_barnett/) and [Dr Raj Jena](https://www.cuh.nhs.uk/staff-directory/dr-raj-jena/). 
 
@@ -28,9 +28,9 @@ Supervised by [Dr Gillian C. Barnett](https://www.cuh.nhs.uk/staff-directory/dr_
 ## Integrated Masters in Physics, University of Exeter (Sept 2016 – June 2020)
   * First Class Honours (83%) with Deans Commendation Award
   * Student Ambassador; women in STEM advocate; resource development for educational access project
-
-
-
+<be>
+<be>
+<be>
 
 
 # Community and Project Experience 
