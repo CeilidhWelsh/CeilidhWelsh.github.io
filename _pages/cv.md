@@ -7,7 +7,15 @@ redirect_from:
   - /resume
 ---
 
-# Research Experience 
+Jump to:
+1. [Research Experience](#researchexperience)
+2. [Community and Project Experience](#communityexperience)
+3. [Work Experience](#workexperience)
+4. [Volunteering Interests and Experiences](#volunteering)
+5. [Conferences and Talks](#talks)
+
+
+# Research Experience <a name="researchexperience"></a>
 ---
 
 ## PhD in Computational Oncology, University of Cambridge (Oct 2020 – Dec 2024)
@@ -32,7 +40,7 @@ Supervised by [Dr Gillian C. Barnett](https://www.cuh.nhs.uk/staff-directory/dr_
 <br>
 
 
-# Community and Project Experience 
+# Community and Project Experience <a name="communityexperience"></a>
 ---
 
 ## The Turing Way (TTW) Collaborations, Alan Turing Institute (May 2023 – Ongoing)
@@ -56,7 +64,7 @@ Supervised by [Dr Gillian C. Barnett](https://www.cuh.nhs.uk/staff-directory/dr_
 <br>
 <br>
 
-# Work Experience 
+# Work Experience <a name="workexperience"></a>
 ---
 
 ### Public Sector Roles 
@@ -74,7 +82,7 @@ _Experience in a menstrual health start-up delivering resources to UK educationa
 <br>
 
 
-# Volunteering Interests and Experiences  
+# Volunteering Interests and Experiences  <a name="volunteering"></a>
 ---
 
 ## Women’s and Non-Binary Student Officer, Darwin College (Nov 2021 - Nov 2022)
@@ -96,7 +104,7 @@ _Providing the patient perspective on documents and software for research instit
 <br>
 <br>
 
-## Conferences and Talks 
+# Conferences and Talks <a name="talks"></a>
 ---
 *	Association for Radiation Research (Glasgow 2022), Medical AI and Machine Learning Panel Host
 *	Evaluating Auto-segmentation in Medical Imaging Analysis (Cambridge 2022), Poster and Panel Discussion
