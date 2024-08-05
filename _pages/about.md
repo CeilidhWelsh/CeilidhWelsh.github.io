@@ -33,8 +33,7 @@ Books:
 
 🌻 Recommendations always welcome 🌻
 
-![image info]("./images/WhatsApp Image 2024-08-05 at 16.56.55 (1).jpeg")
-
+![title](./images/websiteimone.jpeg)
 
 
 
