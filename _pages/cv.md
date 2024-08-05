@@ -7,58 +7,29 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+Research Experience 
+======
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+PhD in Computational Oncology, University of Cambridge (Oct 2020 – Dec 2024) 
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Thesis Title: Towards a Unified Model for Predicting Radiotherapy Effects 
+Suprvised by [Dr Gillian C. Barnett](https://www.cuh.nhs.uk/staff-directory/dr_gill_barnett/) and [Dr Raj Jena](https://www.cuh.nhs.uk/staff-directory/dr-raj-jena/). 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Utilised statistical and machine learning methods to predict radiotherapy treatment response, conducting collaborative interdisciplinary research with clinicians, AI researchers, ethicists, patients, and publics
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*	Independently designed and implemented a reproducible pipeline using FAIR data principles, ensuring accountability, explainability, and transparency of algorithm development and research objectives
 
-Publications
+*	Mapped out and utilised ethical frameworks for evaluating and addressing medical data risks and ethical concerns associated with the project’s goals, in the context of AI healthcare implementation 
+
+*	Shaped and informed the project’s execution through qualitative focus-group methods to explore patients’ lived experiences and perspectives
+
+*	High-quality research outputs, from patient-facing collaborations to research publications, informing UK Government policy development on AI medical device regulation 
+
+
+Community and Project Experience 
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+
+Work Experience 
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
