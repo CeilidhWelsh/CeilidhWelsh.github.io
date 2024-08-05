@@ -7,8 +7,8 @@ redirect_from:
   - /resume
 ---
 
-Research Experience 
-===
+# Research Experience 
+---
 
 ## PhD in Computational Oncology, University of Cambridge (Oct 2020 – Dec 2024) 
 
@@ -29,8 +29,8 @@ Supervised by [Dr Gillian C. Barnett](https://www.cuh.nhs.uk/staff-directory/dr_
   * First Class Honours (83%) with Deans Commendation Award
   * Student Ambassador; women in STEM advocate; resource development for educational access project
 
-Community and Project Experience 
-===
+# Community and Project Experience 
+---
 
 ## The Turing Way (TTW) Collaborations, Alan Turing Institute (May 2023 – Ongoing)
   *	Developed the Turing Way’s research vision into executable tasks to deliver content for publication
@@ -50,8 +50,23 @@ Community and Project Experience
   * Collected data and public feedback regarding their lived experiences and understanding of AI to produce resources and to inform thinking on AI communications and accessibility 
 
 
-Work Experience 
-===
+# Work Experience 
+---
+
+###Public Sector Roles 
+Experience on the frontline of healthcare services and behind the scenes to ensure high-quality patient care
+
+1. A&E receptionist (2018 - 2020); managed critical and high-pressure tasks working across medical teams 
+2. Software Tester NHS (2018); tested four bespoke software systems before implementation across the NHS 
+3. Medical Physics Departments (2018 | 2019); developed safety protocols across two NHS trusts
+
+###Private Sector – Grace and Green, Period Dignity Team (2021-2023)
+Experience in a menstrual health start-up delivering resources to UK educational institutes and organisations 
+
+* Designed and delivered workshops on menstrual equity across UK Universities
+* * Developed and launched free-to-access educational materials for UK organisations and businesses 
+
+
 
 
 
