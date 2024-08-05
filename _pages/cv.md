@@ -44,7 +44,7 @@ Supervised by [Dr Gillian C. Barnett](https://www.cuh.nhs.uk/staff-directory/dr_
 
 ## Data Hazards, Ethics & Reproducibility Symposium, Alan Turing Institute (Dec 2022 – Mar 202)
   * Designed, co-organised and co-led a one-day, hybrid symposium to foster interdisciplinary discussions
-  * Collaborated with Turing community teams to design and host an EDI compliant, accessible event
+  * Collaborated with Turing community teams to design and host an EDI-compliant, accessible event
   * Recruited and led a team of volunteers for hosting sessions, catering, and managing tasks
   * Collected feedback and identified improvements to revise the Grassroots Funding documentation
 
@@ -61,18 +61,36 @@ Supervised by [Dr Gillian C. Barnett](https://www.cuh.nhs.uk/staff-directory/dr_
 ---
 
 ### Public Sector Roles 
-_Experience on the frontline of healthcare services and behind the scenes to ensure high-quality patient care
-_
+_Experience on the frontline of healthcare services and behind the scenes to ensure high-quality patient care_
 1. A&E receptionist (2018 - 2020); managed critical and high-pressure tasks working across medical teams 
 2. Software Tester NHS (2018); tested four bespoke software systems before implementation across the NHS 
 3. Medical Physics Departments (2018 and 2019); developed safety protocols across two NHS trusts
 
 ### Private Sector – Grace and Green, Period Dignity Team (2021-2023)
-_Experience in a menstrual health start-up delivering resources to UK educational institutes and organisations _
+_Experience in a menstrual health start-up delivering resources to UK educational institutes and organisations_
   * Designed and delivered workshops on menstrual equity across UK Universities
   * Developed and launched free-to-access educational materials for UK organisations and businesses 
 
 
+# Volunteering Interests and Experiences  
+---
+
+## Women’s and Non-Binary Student Officer, Darwin College (Nov 2021 - Nov 2022)
+_Represented and advocated for women/non-binary students, promoting gender, inclusivity, and accessibility_
+  * Raised £1000 for Breast Cancer Awareness, organised and promoted intercollegiate Pink Week events
+  * Supported and communicated with students to navigate with sexual harassment and menstruation policies
+  * Collaborated with students, activists, and University staff to tackle barriers, ensure accountability, and promote gender-inclusive policies
+  * Representative on the College Equity, Diversity, and Inclusion Committee, contributing to Darwin Colleges Strategic Plans and third-party EDI assessment 
+
+## Cambridge Period Project Member and Ambassador (Oct 2020 - Nov 2022)
+_Promoted policy changes, advocated for menstrual equity, and secured £550 sustainability grant_
+  * Co-wrote an open letter advocating for menstrual product provision, resulting in College policy changes
+  * Organised and co-led an intercollegiate ‘Sustainable Periods Workshop’, initiating the Cambridge Zero Students Societies Climate Fund
+  * Fundraised and collected over 500 menstrual products for local schools and community centres
+
+### Patient Representative for the Juvenile Diabetes Research Foundation (Jan 2016 – Ongoing)
+_Providing the patient perspective on documents and software for research institutions, companies, and charities_
+  * Reviewing manuscripts, funding documents, evaluating AI tools and new software developments for diabetes patients, and feeding back to researchers the patient perspective 
 
 
 
