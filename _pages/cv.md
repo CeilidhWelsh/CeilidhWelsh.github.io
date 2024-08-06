@@ -13,11 +13,12 @@ Jump to:
 3. [Work Experience](#workexperience)
 4. [Volunteering Interests and Experiences](#volunteering)
 5. [Conferences and Talks](#talks)
-
+<br>
+<br>
 
 # Research Experience <a name="researchexperience"></a>
 ---
-## <span style="color: #04375B;">PhD in Computational Oncology (Oct 2020 – Dec 2024)</span>
+## <span style="color: #040B5B;">PhD in Computational Oncology (Oct 2020 – Dec 2024)</span>
 ### Towards a Unified Model for Predicting Radiotherapy Effects
 ### Funded by Cancer Research UK
 
