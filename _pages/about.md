@@ -13,7 +13,7 @@ I'm a PhD researcher in the United Kingdom, funded by Cancer Research UK. My cur
 
 I'm interested in how we can form a sense of stewardship and guardianship across our digital lives and how communities can drive change. Particularly how we can explore the ethical implications and dimensions of using technologies to benefit and care for our communities while mitigating harm. I care deeply for the interconnected nature of our world, our politics, our actions, and how they shape our research and our daily lives. 
 
-If I'm not working on my research, you can find me in my favourite cafe or rollerskating with my local rollerderby team. 
+If I'm not working on my research, you can find me in my favourite cafe or rollerskating with my local grassroots rollerderby team. 
 <br>
 <br>
 
@@ -34,7 +34,7 @@ Books:
 2. Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence - Kate Crawford
 3. She Who Struggles: Revolutionary Women Who Shaped the World - Marral Shamshiri and Sorcha Thomson
 
-🌻 Always looking for new inspiration 🌻
+🌻 Always looking for inspiration 🌻
 
 <div style="display: flex; justify-content: center;">
   <img src="/images/websiteimone.jpeg" alt="Image 1" style="width: 45%; margin-right: 10px;">
