@@ -11,7 +11,7 @@ redirect_from:
 
 I'm a PhD researcher in the United Kingdom, funded by Cancer Research UK. My current work investigates patient responses to radiotherapy treatment across different cancer types. Although this originally started as a computational project, my work with individuals, communities and research organisations has transformed it into a multidisciplinary venture exploring the ethical risks associated with AI and machine learning applications in healthcare settings and beyond. I'm a passionate advocate for open science, reproducibility, and responsible innovation and integrating these concepts throughout research lifecycles. 
 
-I'm interested in how we can form a sense of stewardship and guardianship across our digital lives and how communities can drive change. Particularly how we can explore the ethical implications and dimensions of using technologies to benefit and care for our communities while mitigating harm. I care deeply for the interconnected nature of our world, our politics, our actions, and how they shape our research and our daily lives. 
+I'm interested in how we can form a sense of stewardship across our digital lives and how communities can drive change. Particularly how we can explore the ethical implications and dimensions of using technologies to benefit and care for our communities while mitigating harm. I care deeply for the interconnected nature of our world, our politics, our actions, and how they shape our research and our daily lives. 
 
 If I'm not working on my research, you can find me in my favourite cafe or rollerskating with my local grassroots rollerderby team. 
 <br>
