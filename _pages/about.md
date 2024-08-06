@@ -26,6 +26,7 @@ As part of my work with [The Turing Way](https://www.turing.ac.uk/research/resea
 
 <br>
 <br>
+
 Currently Enjoying
 ===================
 
