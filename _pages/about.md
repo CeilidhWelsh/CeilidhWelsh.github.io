@@ -31,9 +31,8 @@ Currently Enjoying
 ===================
 
 Books:
-1. Wolfish: Wolf, Self, and the Stories We Tell About Fear - Erica Berry 
-2. Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence - Kate Crawford
-3. She Who Struggles: Revolutionary Women Who Shaped the World - Marral Shamshiri and Sorcha Thomson
+1. Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence - Kate Crawford
+2. She Who Struggles: Revolutionary Women Who Shaped the World - Marral Shamshiri and Sorcha Thomson
 
 🌻 Always looking for inspiration 🌻
 
